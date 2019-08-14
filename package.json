@@ -1,0 +1,23 @@
+{
+  "name": "inventorywebapp",
+  "version": "1.0.0",
+  "description": "inventory UI for server inventory system",
+  "main": "inventoryWebApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node inventoryWebApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladi03/InventoryWebApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladi03/InventoryWebApp/issues"
+  },
+  "homepage": "https://github.com/vladi03/InventoryWebApp#readme",
+  "dependencies": {
+    "mongodb": "^3.3.0"
+  }
+}
